@@ -1,0 +1,12 @@
+
+r	java:S106*"+Replace this use of System.out by a logger.(…Œ¶¤üÿÿÿÿ8îÚÄş1J$cffa631a-f236-4872-816a-143f1ab6d476
+m	java:S106+"+Replace this use of System.out by a logger.(ÇË×À8ÿÚÅş1J$d1969b19-9477-459c-a8a4-5b7bd43a8bb3
+r	java:S106/"+Replace this use of System.out by a logger.(®·óŠûÿÿÿÿ8‚ÿÚÅş1J$0653fe4d-32f7-43af-9f0a-d7716724209b
+r	java:S1066"+Replace this use of System.out by a logger.(Üˆµğÿÿÿÿÿ8„ÿÚÅş1J$f773e8fb-e869-4edd-9e6f-22362cebcee9
+m	java:S106>"+Replace this use of System.out by a logger.(Ù­­Û8†ÿÚÅş1J$46c15d17-f04c-48cf-9d66-dcc567310013
+r	java:S106B"+Replace this use of System.out by a logger.(Ä×Ÿ·ûÿÿÿÿ8ŠÿÚÅş1J$77bf0a2c-5b53-4bb4-b624-9c12165b9fb2
+l	java:S106F"+Replace this use of System.out by a logger.( ¬ÙB8ÿÚÅş1J$bb64a05c-4cf5-4ed6-a778-c0f3cdf8754c
+x
+java:S1068"0Remove this unused "wordSelector" private field.(áÌ¦Èüÿÿÿÿ8ÿÚÅş1J$245a8c57-de37-4411-91a1-6021b1ccadad
+t
+java:S1068"1Remove this unused "hintGenerator" private field.(£Íûï8ÿÚÅş1J$e73f939d-7958-49e4-836d-4a62f6bb10ec

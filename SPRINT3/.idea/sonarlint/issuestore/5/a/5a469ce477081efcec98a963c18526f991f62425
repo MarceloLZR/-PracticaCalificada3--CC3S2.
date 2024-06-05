@@ -1,0 +1,10 @@
+
+r	java:S106'"+Replace this use of System.out by a logger.(…Œ¶¤üÿÿÿÿ8ª›Æş1J$77b7cd48-01a7-408d-ade1-d86f837d42fc
+m	java:S106("+Replace this use of System.out by a logger.(ÇË×À8«›Æş1J$250218ea-fc83-4f8a-b76e-4d88380a3d79
+r	java:S106,"+Replace this use of System.out by a logger.(®·óŠûÿÿÿÿ8­›Æş1J$acede33d-ca96-42cc-a52e-bb25322fd919
+r	java:S1063"+Replace this use of System.out by a logger.(Üˆµğÿÿÿÿÿ8°›Æş1J$26521be1-20bd-4e59-a1a0-67ca989f6a38
+m	java:S106;"+Replace this use of System.out by a logger.(Ù­­Û8´›Æş1J$9f07b603-f738-4309-bf66-b759f6d5b06d
+r	java:S106?"+Replace this use of System.out by a logger.(Ä×Ÿ·ûÿÿÿÿ8µ›Æş1J$6fcb24f9-5636-48e0-9393-3ee30b3cdc07
+l	java:S106C"+Replace this use of System.out by a logger.( ¬ÙB8·›Æş1J$ba8ce18e-c43b-41f2-b9bd-8402f6b5eecc
+x
+java:S1068"0Remove this unused "wordSelector" private field.(áÌ¦Èüÿÿÿÿ8»›Æş1J$45d52f66-9884-4c98-9352-7e7a86a565e2
